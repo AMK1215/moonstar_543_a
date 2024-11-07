@@ -1,0 +1,24 @@
+// to remove laravel log
+php -r "file_put_contents('/var/www/html/super_bet_77_a/storage/logs/laravel.log', '');"
+// created dev branch for kzt
+
+// Route::group(['prefix' => 'report'], function () {
+    // Route::get('index', [TestReportController::class, 'index'])->name('report.index');
+    // Route::get('view/{user_name}', [TestReportController::class, 'view'])->name('report.view');
+    // Route::get('show/{product_code}', [TestReportController::class, 'show'])->name('report.show');
+    // Route::get('detail/{user_id}/{product_code}', [TestReportController::class, 'detail'])->name('report.detail');
+    // });
+
+    livesportapi.online
+
+    https://77sportsmm.com/api
+
+    Super Bet
+
+1. transaction တွင် Agent/User id ထပ်ထည့်ရန်။
+2. adminရောagentရော က  တစ်လအတွင်းရောင်းထားတဲ့ စာရင်း  agentတစ်ယောက်ချင်းစီရဲ့လက်အောက်မှာရှိတဲ့plyaer အားလုံး ရဲ့အနိုင်အရှုး total ကိုကြည့်လိုရရန်။
+SuperBet Admin site
+https://superbet7.info/
+superbet77 - delightmyanmar
+player site
+https://superbet7.pro/
